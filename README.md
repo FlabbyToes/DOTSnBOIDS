@@ -22,6 +22,7 @@ Explore the features of Unity DOTS Boids and modify it to your needs!
 
 ##  Acknowledgements
 Craig Reynolds for the original Boids algorithm
+
 Sebastian Lague on Youtube for obstacle detection algorithm
 
 ## Feedback and Support
