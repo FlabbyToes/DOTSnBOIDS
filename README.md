@@ -6,13 +6,13 @@
 
 ## Features
 
-- *Unity DOTS**: Utilizes Unity Entity Component System, multithreaded job system, and Burst compiler for optimal performance
+- **Unity DOTS**: Utilizes Unity Entity Component System, multithreaded job system, and Burst compiler for optimal performance
 
 - **Boids Algorithm**: Implements classic Boids behaviors: separation, alignment, and cohesion,  as well as obstacle avoidance.
 
 - **Extreme Optimization**: Supports thousands of boids simultaneously, around 30x faster than standard Unity
 
-- **Head Aiming**: Customizable parameters for fine-tuning behavior
+- **Customization**: Customizable parameters for fine-tuning behavior
 
 
 ## Link to Demo!
