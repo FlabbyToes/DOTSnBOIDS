@@ -10,10 +10,7 @@
 
 - **Boids Algorithm**: Implements classic Boids behaviors: separation, alignment, and cohesion,  as well as obstacle avoidance.
 
-- **Extreme Optimization**: Supports thousands of boids simultaneously, around 30x faster than standard Unity
-
-- **Customization**: Customizable parameters for fine-tuning behavior
-
+- **Extreme Optimization**: 10,000+ boids with obstacle detection at 60+ FPS on mid-range hardware, around 30x faster than standard Unity
 
 ## Link to Demo!
 [Link to the Video and Downloadable Demo](https://ahuliangbo.github.io/projects/boids/)
